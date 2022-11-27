@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **carlosasalas321@gmail.com**
 
-- ⚡ Fun fact **I lovejavascript**
+- ⚡ Fun fact **I love javascript**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
