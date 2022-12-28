@@ -11,7 +11,7 @@
 
 - ⚡ Fun fact **I love javascript**
 
-- 👀 My **Cv**[Curriculum.pdf](https://github.com/wubbzy25/wubbzy25/files/10312179/Carlos.SALAS.pdf)
+- 👀 My **Cv** [Curriculum.pdf](https://github.com/wubbzy25/wubbzy25/files/10312179/Carlos.SALAS.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
