@@ -10,9 +10,6 @@
 - 📫 How to reach me **carlosasalas321@gmail.com**
 
 - ⚡ Fun fact **I love javascript**
-
-- 👀 My **Cv** [Curriculum.pdf](https://github.com/wubbzy25/wubbzy25/files/10312179/Carlos.SALAS.pdf)
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/carlos-salas-66620a254/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="carlos salas" height="30" width="40" /></a>
