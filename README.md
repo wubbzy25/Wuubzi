@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Salas</h1>
-<h3 align="center">A passionate Junior FullStack from colombia</h3>
+<h3 align="center">A passionate FullStack from colombia</h3>
 
 - 🌱 I’m currently learning **Python,react**
 
