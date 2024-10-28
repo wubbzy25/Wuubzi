@@ -17,8 +17,8 @@ I am a backend developer, I love to learn and build something new, productive, i
 <h4> Languages </h4>
 <span> 
    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
-   <img src="">
-   <img src="">
+   <img src="https://img.shields.io/badge/Clojure-%23Clojure.svg?style=for-the-badge&logo=Clojure&logoColor=Clojure">
+   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54">
  
 </span>
 <h4>Frameworks, Platforms and Libraries</h4>
